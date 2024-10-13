@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "Vortreffen.html#mit-wem-haben-sie-es-zu-tun",
+    "href": "Vortreffen.html#mit-wem-haben-sie-es-zu-tun",
+    "title": "Vortreffen am 15.10.2024",
+    "section": "Mit wem haben Sie es zu tun?",
+    "text": "Mit wem haben Sie es zu tun?\n\n\nDaniel D. Schnitzlein\n\nGründer und Geschäftsführer von Innside Statistics\nhttps://innside-statistics.de\naußerplanmäßiger Professor für Volkswirtschaftslehre an der Leibniz Universität Hannover\nPrinciple Investigator im DFG-Projekt InterVerm\n\n\n\n\n\n\n\n\n\n\n\n\nBisherige berufliche Stationen\nLeibniz Universität Hannover | DIW Berlin | Humboldt Universität zu Berlin | Universität Hamburg | Friedrich-Alexander-Universität Erlangen-Nürnberg | Institut für Arbeitsmarkt- und Berufsforschung"
+  },
+  {
+    "objectID": "Vortreffen.html#seminarablauf",
+    "href": "Vortreffen.html#seminarablauf",
+    "title": "Vortreffen am 15.10.2024",
+    "section": "Seminarablauf",
+    "text": "Seminarablauf\n \n\n\n\n\nDatum\nUhrzeit\nThema\n\n\n\n\n15. Oktober 2024\n09:45 - 11:15 Uhr\nVorbesprechung\n\n\n18. Oktober 2024\n08:00 - 12:15 Uhr\nTermin 1\n\n\n22. November 2024\n08:00 - 12:15 Uhr\nTermin 2\n\n\n06. Dezember 2024\n08:00 - 12:15 Uhr\nTermin 3\n\n\n10. Januar 2025\n08:00 - 12:15 Uhr\nTermin 4\n\n\n17. Januar 2025\n08:00 - 10:00 Uhr (?)\nTermin 5\n\n\n\n\n\nAlle Termine finden online via Zoom statt. Der Link wird rechtzeitig vor dem jeweiligen Termin bereitgestellt. Nach jedem Termin wird es ein Problem Set (Hausaufgabe) geben, das bis zum nächsten Termin bearbeitet werden muss. Die Abgabe der Hausaufgaben ist Voraussetzung für die Bescheinigung der Kursteilnahme."
+  },
+  {
+    "objectID": "Vortreffen.html#ihre-umgebung-auf-ihrem-eigenen-laptop",
+    "href": "Vortreffen.html#ihre-umgebung-auf-ihrem-eigenen-laptop",
+    "title": "Vortreffen am 15.10.2024",
+    "section": "Ihre Umgebung auf Ihrem eigenen Laptop",
+    "text": "Ihre Umgebung auf Ihrem eigenen Laptop\n\n\n\nR und R-Studio werden beide unter Open-Source-Lizenzen vertrieben und sind für alle gängigen Betriebssysteme verfügbar. Das heißt, Sie können beides herunterladen und auf Ihrem eigenen Computer installieren.\nBitte beachten Sie: Sie müssen für R und R-Studio nicht bezahlen. Kostenpflichtig ist nur die Enterprise Version, die wir im Kurs nicht! benötigen.\nAuch alle Datensätze, die wir in dieser Veranstaltung verwenden werden, können Sie auf Ihrem eigenen Computer nutzen und ich werde Ihnen entweder die Download-Links zur Verfügung stellen oder die Daten direkt über Github (oder StudOn) bereitstellen. Den Link zum Repository erhalten Sie jeweils vor dem relevanten Kurstermin.\nDas bedeutet, Sie können alle Übungen und Anwendungen mit Ihrem eigenen Gerät bearbeiten und wir müssen nicht auf die Computerräume der Universität zurückgreifen.\nBitte bringen Sie Ihren Computer mit einer laufenden Installation von R und R-Studio zu den Veranstaltungsterminen mit.\nIdealerweise können Sie entweder zwei Monitore nutzen oder können mit einem (mobilen) Gerät am Zoommeeting teilnehmen, sodass Sie parallel an Ihrem Rechner arbeiten können."
+  },
+  {
+    "objectID": "Vortreffen.html#was-ist-r-und-warum-r",
+    "href": "Vortreffen.html#was-ist-r-und-warum-r",
+    "title": "Vortreffen am 15.10.2024",
+    "section": "Was ist R und warum R?",
+    "text": "Was ist R und warum R?\n\n\n\nR ist eine Programiersprache und Umgebung für statistische Berechnungen.\nDie Arbeit an R begann 1992, die erste Version erschien 1993 und die erste stabile Betaversion wurde im Jahr 2000 veröffentlicht.\nR wird unter der GNU GPL v2-Lizenz vertrieben, oder anders gesagt, es ist Open Source.\nWährend R in den ersten Jahren vor allem ein kleines Projekt für den akademischen Bereich war, ist es inzwischen eine der weltweit am häufigsten verwendeten Sprachen für statistische Analysen.\nR ist inzwischen in eine Vielzahl professioneller Lösungen für die Datenanalyse und Big Data-Verarbeitung integriert.\nPosit https://posit.co/ (früher R-Studio) bietet Enterprise-ready Lösungen für die Arbeit mit R (und Python) an."
+  },
+  {
+    "objectID": "Vortreffen.html#was-sind-r-pakete",
+    "href": "Vortreffen.html#was-sind-r-pakete",
+    "title": "Vortreffen am 15.10.2024",
+    "section": "Was sind R-Pakete?",
+    "text": "Was sind R-Pakete?\n\n\n\nR besteht aus einer Basiskomponente, die durch sogenannte R-Pakete erweitert werden kann um bestimmte Aufgaben zu lösen.\nDas wichtigste Repository für R-Pakete, das Comprehensive R Archive Network (CRAN), listet zur Zeit 21.396 (September 2024) verfügbare Pakete auf (zuzüglich eine Unmenge von Paketen auf Github).\nFür alle (die meisten) verfügbaren Pakete ist eine umfangreiche Dokumentation verfügbar.\nEs gibt zahlreiche Tutorials (eine Google-Suche zum Thema ”Introduction to R” ergibt über 6 Mio. Treffer), freie und kommerzielle Lehrbücher und eine sehr aktive Community rund um R.\nPraktisch auf jede Frage, die man am Anfang hat, kann man mit einer einfachen Google-Suche die Antwort finden.\nMit R-Studio steht eine sehr benutzerfreundliche und ebenfalls unter einer Open-Source Lizenz stehende IDE zur Verfügung."
+  },
+  {
+    "objectID": "Vortreffen.html#wo-kann-man-r-und-r-studio-herunterladen",
+    "href": "Vortreffen.html#wo-kann-man-r-und-r-studio-herunterladen",
+    "title": "Vortreffen am 15.10.2024",
+    "section": "Wo kann man R und R-Studio herunterladen?",
+    "text": "Wo kann man R und R-Studio herunterladen?\n\nSie können R hier herunterladen: https://cran.r-project.org/\n\nAuf der CRAN Seite finden Sie R-Versionen für alle gängigen (und nicht so gängigen) Betriebssysteme.\n\n\nSie können R-Studio hier herunterladen: https://posit.co/download/rstudio-desktop/\n\nBitte beachten Sie, wir nutzen die kostenlose Version von R-Studio. Wenn Sie aufgefordert werden etwas zu bezahlen, oder ein Abo abzuschließen, sind Sie auf die Seite der Enterprise Version geraten. Diese benötigen wir nicht!\nAuch R-Studio ist für alle gängigen (und nicht so gängigen) Betriebssysteme verfügbar.\n\n\n\n\n\n\n\nAchtung!\n\n\nSie müssen zuerst R und erst danach R-Studio installieren. Nur auf diese Weise erkennt R-Studio Ihre R-Version automatisch."
+  },
+  {
+    "objectID": "Vortreffen.html#liste-der-verwendeten-pakete",
+    "href": "Vortreffen.html#liste-der-verwendeten-pakete",
+    "title": "Vortreffen am 15.10.2024",
+    "section": "Liste der verwendeten Pakete",
+    "text": "Liste der verwendeten Pakete\n  \n\n\n# Notwendige Pakete\n\ninstall.packages(\"tidyverse\")\ninstall.packages(\"psych\")\ninstall.packages(\"easystats\")\ninstall.packages(\"palmerpenguins\")\ninstall.packages(\"knitr\")\ninstall.packages(\"stargazer\")\ninstall.packages(\"gt\")\ninstall.packages(\"gtsummary\")\ninstall.packages(\"MASS\")\ninstall.packages(\"plotly\")\ninstall.packages(\"ggthemes\")\n\n\n\n\n# Optionale Pakete \n\ninstall.packages(\"cleaner\")\ninstall.packages(\"ineq\")\ninstall.packages(\"gglorenz\")\ninstall.packages(\"ggTimeSeries\")\ninstall.packages(\"ggpubr\")\ninstall.packages(\"readr\")\ninstall.packages(\"ggwordcloud\")\ninstall.packages(\"CGPfunctions\")\ninstall.packages(\"caret\")\ninstall.packages(\"boot\")\ninstall.packages(\"lubridate\")"
+  },
+  {
+    "objectID": "Vortreffen.html#vorläufige-themenliste",
+    "href": "Vortreffen.html#vorläufige-themenliste",
+    "title": "Vortreffen am 15.10.2024",
+    "section": "(Vorläufige) Themenliste",
+    "text": "(Vorläufige) Themenliste\n\n\n\nEinführung in R und R-Studio: Überblick über die Installations- und Einrichtungsprozesse | Grundlegende Funktionen und Bedienung von R und R-Studio\nGrundlagen der Statistiksprache R: Syntax und Datenstrukturen in R | Einführung in Funktionen und Pakete\nDatenmanagement in R: Methoden der Datenorganisation und -vorbereitung | Importieren, Bereinigen und Transformieren von Datensätzen\nEinführung in die Pakete des tidyverse: Überblick über die wichtigsten tidyverse-Pakete wie z.B. dplyr und ggplot2 | Anwendung dieser Pakete zur effizienten Datenanalyse und -visualisierung\nDeskriptive Statistik in R: Berechnung und Interpretation grundlegender statistischer Kennzahlen | Anwendung von deskriptiven Methoden zur Datenexploration | Einführung in die statistische Modellierung am Beispiel linearer Modelle\nDatenvisualisierung in R: Erstellen von publikationsreifen Grafiken und Diagrammen mit ggplot2 | Gestaltung und Interpretation von Datenvisualisierungen zur Unterstützung der Datenanalyse"
+  },
+  {
+    "objectID": "Vortreffen.html#section",
+    "href": "Vortreffen.html#section",
+    "title": "Vortreffen am 15.10.2024",
+    "section": "",
+    "text": "Bis Freitag!\n\n\n\nGitHub-Repo: https://github.com/dschnitzlein/GDSR_0b_Vortreffen"
+  }
+]
